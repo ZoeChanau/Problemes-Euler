@@ -22,5 +22,4 @@ def prime_factors(n):
 	return liste
 
 n=600851475143
-prime_factors(n)
 max(prime_factors(n))
